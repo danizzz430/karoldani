@@ -1,0 +1,33 @@
+<HTML>
+<HEAD> 
+<TITLE>Mi mini autobiografia</TITLE>
+<link rel="icon" heef="https://cdn-icons-png.flaticon.com/512/616/616400.png">
+</HEAD>
+<BODY BGCOLOR="lightpink" TEXT="black">
+<CENTER>
+<H1>Mi mini autobiografia</h1>
+</CENTER>
+<CENTER>
+<IMG SRC="https://i.pinimg.com/736x/10/7f/4d/107f4d29a74ceb323e0f9de66ea537f9.jpg">
+</CENTER>
+<HR>
+<P>
+Hola mi nombre es <B>karol daniela monroy cristiano</B>. <BR>Naci en<I> la ciuidad de bogota, colombia</I>Y me considero una persona </u>alegre y risueña</u>. <BR>me gusta pasar tiempo con mi familia , ver series y escuchar musica.<BR> me esmero por dar lo mejor de mi porque quiero cumplir mis sueños .<BR>y siempre trato de dar lo mejor de mi para lograr las cosas.
+</P>
+<HR>
+<H2>Aspectos importantes de mi vida:</H2>
+<UL>
+ <LI><B>Familia:</B> Son mi mayor motivacion.</LI>
+ <LI><B>Estudio:</B> me esfuerxo por mejorar. </LI>
+ </lI><B>Pasatiempos:</B> escuhar musica y ver series y peliculas.</LI>
+ <LI><B>Sueños:</B> ser profesional y viajar por el mundo.</LI>
+</UL>
+<HR>
+<H2>MIS HOBBIES</H2><OL>
+  <LI>escuchar musica</LI>
+  <LI>leer</LI>
+  <li>cocinar</LI>
+  </OL>
+
+</BODY>
+</HTML>
